@@ -48,7 +48,7 @@ This project was developed collaboratively by [Alaa Eddine Ayedi](https://github
 
 For a comprehensive understanding of the project, including detailed setup instructions and in-depth explanations of each component, please refer to our detailed project documentation:
 
-[Project_Documentation.pdf](./Cybersecurity_Soar_EDR_Project.pdf)
+[Project_Documentation.pdf](./SOAR-EDR-Project.pdf)
 
 This PDF provides step-by-step guidance on setting up the environment, configuring LimaCharlie and Tines, and implementing the automated workflow.
 
