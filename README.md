@@ -4,6 +4,8 @@
 
 This project demonstrates the implementation of a Security Orchestration, Automation, and Response (SOAR) solution integrated with Endpoint Detection and Response (EDR) capabilities. By combining the power of SOAR and EDR technologies, we've created an automated system for detecting and responding to potential security threats with minimal human intervention.
 
+![Alt text](./SOAR_EDR_workflow.jpg)
+
 ## Key Components
 
 - **EDR**: [LimaCharlie](https://limacharlie.io/)
